@@ -3,5 +3,13 @@
 @charset "utf-8";
 
 @import 'vendor/normalize';
+@import 'partials/breakpoints';
+@import 'variables';
 
 @import 'base/root';
+
+@import 'layout';
+
+@import 'components/featured-post';
+@import 'components/post';
+@import 'components/sidebar';

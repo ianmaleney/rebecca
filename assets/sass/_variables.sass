@@ -1,0 +1,8 @@
+$highlight: darken(aliceblue, 20%)
+$spacer: #ddd
+$textgray: #666666
+
+// Font Size
+@mixin fs($base, $max)
+	font-size: calc(#{$base} + #{$max} * (100vw - 320px) / 1440)
+	

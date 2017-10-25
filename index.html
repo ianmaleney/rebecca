@@ -2,4 +2,27 @@
 layout: default
 ---
 
-<h1>Hello world!</h1>
+{% assign links = site.documents %}
+
+{% for pieces in links %}
+
+    <div class="writing col col--content featured-post">
+        
+        {% if pieces.type == "link" %}
+            <a href="{{ pieces.link }}"><img src="{{ pieces.img }}"/></a>
+        {% else %}
+            <a href="{{ pieces.url }}"><img src="{{ pieces.img }}"/></a>
+        {% endif %}
+        
+        <div class="project-text">
+            {% if pieces.type == "link" %}
+                <a href="{{ pieces.link }}"><h2>{{ pieces.title }}</h2></a>
+                <p>{{ pieces.description }}</p>
+            {% else %}
+                <a href="{{ pieces.url }}"><h2>{{ pieces.title }}</h2></a>
+                <p>{{ pieces.description }}</p>
+            {% endif %}
+        </div>
+        
+    </div>
+{% endfor %}

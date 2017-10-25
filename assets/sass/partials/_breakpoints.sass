@@ -1,0 +1,42 @@
+// Set the breakpoint, max/min, and height/width axis with a single Sass mixin. Defaults to min-width.
+// +bp(xl, max, height) 
+// Source: https://css-tricks.com/naming-media-queries/#comment-437318
+
+@mixin bp($point, $range:'min', $axis:'width') 
+	
+	@if $axis == 'width'
+		@if $point == 'xxl' 
+			@media (#{$range}-width: 1600px)  
+				@content
+		@else if $point == 'xl'
+			@media (#{$range}-width: 1280px) 
+				@content
+		@else if $point == 'l'
+			@media (#{$range}-width: 960px)   
+				@content		
+		@else if $point == 'm'
+			@media (#{$range}-width: 768px)   
+				@content				
+		@else if $point == 's'
+			@media (#{$range}-width: 600px)   
+				@content				
+		@else if $point == 'xs'
+			@media (#{$range}-width: 450px)   
+				@content		
+		@else if $point == 'xxs'
+			@media (#{$range}-width: 320px)   
+				@content
+				
+	@else if $axis == 'height'
+		@if $point == 'xl'
+			@media (#{$range}-height: 1024px) 
+				@content
+		@else if $point == 'l'
+			@media (#{$range}-height: 768px)   
+				@content
+		@else if $point == 'm'
+			@media (#{$range}-height: 500px)   
+				@content			
+		@else if $point == 's'
+			@media (#{$range}-height: 350px)   
+				@content

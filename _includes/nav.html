@@ -1,0 +1,9 @@
+<div class="title-menu-wrapper">
+    <ul class="title-menu">
+        {% for link in site.data.nav %}
+            <li class="title-menu__item">
+                <a href="{{ link.link }}">{{ link.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>

@@ -1,0 +1,19 @@
+---
+layout: page
+---
+
+{% assign links = site.documents %}
+
+{% for pieces in links %}
+    {% if pieces.type == "link" %}
+    <div class="writing writing--link">
+        <a href="{{ pieces.link }}"><h2>{{ pieces.title }}</h2></a>
+        <p>{{ pieces.description }}</p>
+    </div>
+    {% else %}
+    <div class="writing writing--link">
+        <a href="{{ pieces.url }}"><h2>{{ pieces.title }}</h2></a>
+        <p>{{ pieces.description }}</p>
+    </div>
+    {% endif %}
+{% endfor %}

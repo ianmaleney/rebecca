@@ -1,0 +1,51 @@
+.sidebar
+	display: flex
+	flex-direction: column
+	justify-content: flex-start
+	height: 70vh
+	width: calc(96vw / 5 - 20px)
+	position: fixed
+	left: 80px
+	top: calc(15vh - 55px)
+
+.site-title-wrapper
+	border-bottom: 1px solid $spacer
+
+.site-title
+	+fs(2.2rem, 6)
+	font-weight: 400
+	text-decoration: none
+	color: black
+	&:hover
+		color: $highlight
+
+.site-social
+	display: flex
+	justify-content: flex-start
+	align-items: center
+	margin: 40px 0 12px
+	a:not(:first-child)
+		margin-left: 8px
+	svg
+		height: 30px
+		width: 30px
+		fill: #bbb
+		&:hover
+			fill: $highlight
+			path
+				fill: $highlight
+		path
+			fill: #bbb
+
+.title-menu
+	+fs(1.6rem, 6)
+	list-style: none
+	margin-left: -40px
+	letter-spacing: 0.5px
+	.title-menu__item
+		line-height: 3.8rem
+	a
+		text-decoration: none
+		color: $textgray
+		&:hover
+			color: $highlight

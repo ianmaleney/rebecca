@@ -3,6 +3,8 @@
  */
 html {
   box-sizing: border-box;
+  font-size: 10px;
+  font-family: 'Crimson Text', serif;
 }
 
 /**
@@ -14,3 +16,12 @@ html {
 *, ::before, ::after {
   box-sizing: inherit;
 } 
+  
+body {
+  background-color: #e8e8e8;
+}
+
+p {
+  font-size: 1.8rem;
+  line-height: 2.6rem;
+}
