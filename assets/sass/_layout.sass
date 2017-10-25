@@ -1,8 +1,12 @@
 .content-wrapper
-	margin-left: 35vw
-	width: calc(60vw - 40px)
-	margin-top: 15vh 
+	width: 92vw
+	margin-left: 4vw
+	+bp(s)
+		margin-left: 35vw
+		width: calc(60vw - 40px)
+		margin-top: 15vh 
 
 .content-wrapper--grid
 	display: grid
-	grid-template-rows: 250px
+	+bp(s)
+		grid-template-rows: 250px
