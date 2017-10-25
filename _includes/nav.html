@@ -2,7 +2,7 @@
     <ul class="title-menu">
         {% for link in site.data.nav %}
             <li class="title-menu__item">
-                <a href="/rebecca/{{ link.link }}">{{ link.title }}</a>
+                <a href="/rebecca{{ link.link }}">{{ link.title }}</a>
             </li>
         {% endfor %}
     </ul>
