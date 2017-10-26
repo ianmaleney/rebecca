@@ -2,9 +2,9 @@
 layout: default
 ---
 
-{% assign links = site.documents | where "featured", "true" %}
+{% assign links = site.documents %}
 
-{% for pieces in links %}
+{% for pieces in links where "featured", "true" limit: 4 %}
 
     <div class="writing col col--content featured-post">
         
