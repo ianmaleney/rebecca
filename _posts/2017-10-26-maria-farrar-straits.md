@@ -1,5 +1,5 @@
 ---
-title: Maria Farrar, straits
+title: Maria Farrar, <em>straits</em>
 type: link
 date: 2017-10-26 00:00:00 +0000
 link: http://www.motherstankstation.com/wp-content/uploads/2017/08/mothers-annual-2017_Maria-Farrar_straits_Copyright-all-rights-reserved.pdf
