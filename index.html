@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign links = site.documents %}
+{% assign links = site.documents | sort: date | reverse %}
 
 {% for pieces in links %}
 
