@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/2017-10-26-another-test.md
 hide_body: false
 fields:
 - type: text
