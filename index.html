@@ -2,10 +2,11 @@
 layout: default
 ---
 
-{% assign links = site.documents | where "featured", "true" limit: 4 %}
+{% assign links = site.documents %}
 
 {% for pieces in links %}
 
+    {% if pieces.featured == true %}
     <div class="writing col col--content featured-post">
         
         {% if pieces.type == "link" %}
@@ -25,4 +26,5 @@ layout: default
         </div>
         
     </div>
+    {% endif %}
 {% endfor %}
