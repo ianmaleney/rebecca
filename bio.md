@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /bio/
 ---
 
 Rebecca O’ Dwyer is an art writer, editor and critic. She recently completed PhD study in the department of Visual Culture at the National College of Art &  Design, Dublin, writing on the conditions of contemporary art criticism. 
