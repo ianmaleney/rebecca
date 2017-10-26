@@ -1,8 +1,7 @@
+---
 - title: Writing
-  link: /writing/
-
+  link: "/writing/"
 - title: Bio
-  link: /bio/
-
+  link: "/bio/"
 - title: Contact
-  link: /contact/
+  link: "/contact/"
