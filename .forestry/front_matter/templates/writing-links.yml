@@ -1,4 +1,6 @@
 ---
+pages:
+- _writing/1.html
 hide_body: true
 fields:
 - type: text
