@@ -20,6 +20,12 @@ fields:
   description: Link to the piece.
   config:
     required: true
+- type: datetime
+  name: date
+  label: Date
+  description: Date the piece was published. (DD/MM/YYYY)
+  config:
+    date_format: DD/MM/YYYY
 - type: boolean
   name: featured
   label: Featured
