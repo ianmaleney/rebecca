@@ -10,11 +10,10 @@ fields:
   description: Public title of the post.
   config:
     required: true
-- type: text
+- type: boolean
   name: featured
   label: Featured
-  description: Use 'true' or 'false' to determine whether to feature the post on the
-    home page.
+  description: Should the post be featured on the home page?
 - type: file
   name: img
   label: Image
