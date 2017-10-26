@@ -6,3 +6,10 @@ fields:
   type: text
   hidden: false
   default: post
+  description: Don't change this.
+- type: text
+  name: title
+  label: Title
+  description: Public title of the post.
+  config:
+    required: true
