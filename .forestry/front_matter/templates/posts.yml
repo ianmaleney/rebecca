@@ -1,15 +1,24 @@
 ---
 hide_body: false
 fields:
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: post
-  description: Don't change this.
 - type: text
   name: title
   label: Title
   description: Public title of the post.
   config:
     required: true
+- type: text
+  name: featured
+  label: Featured
+  description: Use 'true' or 'false' to determine whether to feature the post on the
+    home page.
+- type: file
+  name: img
+  label: Image
+  description: Image to accompany post on the front page.
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: post
+  description: Don't change this.
