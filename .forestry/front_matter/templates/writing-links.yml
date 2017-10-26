@@ -14,13 +14,6 @@ fields:
   label: Description
   description: Short description of the piece. (Optional)
 - type: text
-  name: type
-  label: Type
-  description: Is this a link to an external site? If so, type 'link' in here.
-  config:
-    required: true
-  default: link
-- type: text
   name: link
   label: Url
   description: Link to the piece.
@@ -34,3 +27,10 @@ fields:
   name: img
   label: Image
   description: Upload the image which will accompany the piece on the front page.
+- type: text
+  name: type
+  label: Type
+  description: Is this a link to an external site? If so, type 'link' in here.
+  config:
+    required: true
+  default: link
