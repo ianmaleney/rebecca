@@ -1,5 +1,5 @@
 ---
-title: Maria Farrar, straits
+title: Maria Farrar, <em>straits</em>
 type: link
 date: 2017-08-16 15:33:38 +0100
 img: "/uploads/2017/10/26/DAlXcA2XkAAwycr.jpg"
