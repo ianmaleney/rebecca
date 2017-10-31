@@ -4,7 +4,7 @@
 html {
   box-sizing: border-box;
   font-size: 10px;
-  font-family: 'Crimson Text', Palatino Linotype, Book Antiqua, Palatino, serif;
+  font-family: $serif;
 }
 
 /**
@@ -23,7 +23,8 @@ body {
 
 p {
   @include fs(1.6rem, 2);
-  line-height: 2.6rem;
+  line-height: 2.7rem;
+  max-width: 640px;
 }
 
 a {

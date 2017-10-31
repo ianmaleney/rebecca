@@ -9,12 +9,6 @@ layout: default
     {% if pieces.featured == true %}
     <div class="writing col col--content featured-post">
         
-        {% if pieces.type == "link" %}
-            <a href="{{ pieces.link }}"><img src="{{ pieces.img }}"/></a>
-        {% else %}
-            <a href="{{ pieces.url }}"><img src="{{ pieces.img }}"/></a>
-        {% endif %}
-        
         <div class="project-text">
             {% if pieces.type == "link" %}
                 <a href="{{ pieces.link }}"><h2>{{ pieces.title }}</h2></a>
@@ -24,6 +18,16 @@ layout: default
                 <p>{{ pieces.description }}</p>
             {% endif %}
         </div>
+
+         {% if pieces.type == "link" %}
+        <a class="featured-post__image" href="{{ pieces.link }}">
+            <img src="{{ pieces.img }}" />
+        </a>
+        {% else %}
+        <a class="featured-post__image" href="{{ pieces.url }}">
+            <img src="{{ pieces.img }}" />
+        </a>
+        {% endif %}
         
     </div>
     {% endif %}
