@@ -3,7 +3,7 @@ layout: post
 title: "<em>The New Conservatism</em>"
 date: 2017-10-31 17:00:50 +0000
 img: "/uploads/2017/10/31/Optimized-akhob-by-james-turrell.jpg"
-featured: true
+featured: false
 ---
 When I read Morgan Quaintance’s recent polemic for _e-flux_ _conversations_, ‘[The New Conservatism: Complicity and the UK Art World’s Performance of Progression](https://conversations.e-flux.com/t/the-new-conservatism-complicity-and-the-uk-art-worlds-performance-of-progression/7200),’ I was of course initially dumbfounded. Here is a man, I thought, clearly uneasy in the contemporary art world; _mad as hell and not going to take it_ anymore, even. _Frieze_, _Art Review, Tate, Art Monthly,_ Create, Open School East, Cubitt_:_ all of these are taken to task, some of course more than others, and this is nowhere near an exhaustive list. Good on him, I thought: we need more of this kind of thing. We need people who will bite the hands that feeds them. That it has gained so much traction, been shared and commented on so widely, is of course unsurprising: there is a voyeuristic thrill in watching someone burn bridges quite so wilfully. The point is, of course, it shouldn’t be simply voyeuristic — it is a call to arms.
 
