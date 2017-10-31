@@ -1,5 +1,5 @@
 ---
-title: Brian Dillon, <em>Essayism</em>
+title: Brian Dillon, <em>Essayism</em> (2017)
 type: link
 date: 2017-10-31 00:00:00 +0000
 description: Review published at The Stinging Fly (online), October 2017
