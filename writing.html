@@ -3,9 +3,9 @@ layout: page
 permalink: "/writing/"
 ---
 
-{% assign links = site.documents %}
+{% assign links = site.documents | sort: 'date' %}
 
-{% for pieces in links %}
+{% for pieces in links reversed %}
     {% if pieces.type == "link" %}
     <div class="writing writing--link">
         <a href="{{ pieces.link }}"><h2>{{ pieces.title }}</h2></a>

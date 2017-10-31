@@ -45,7 +45,7 @@ exclude:
   - assets/sass
 
 # Plugin settings
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
 
