@@ -13,7 +13,7 @@
 		width: calc(96vw / 5 - 20px)
 		position: fixed
 		left: 80px
-		top: calc(15vh - 6.6rem)
+		top: calc(15vh - (#{$titlesize} * 2.5))
 
 .site-title-wrapper
 	border-bottom: 1px solid $spacer
@@ -21,7 +21,7 @@
 		flex: 1 0 100%
 
 .site-title
-	+fs(2.2rem, 6)
+	font-size: $titlesize
 	font-weight: 400
 	text-decoration: none
 	color: black
@@ -48,7 +48,7 @@
 			fill: #bbb
 
 .title-menu
-	+fs(1.6rem, 2)
+	+fs(1.4rem, 4)
 	list-style: none
 	margin-left: -40px
 	letter-spacing: 0.5px

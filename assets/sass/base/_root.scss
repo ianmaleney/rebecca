@@ -22,7 +22,7 @@ body {
 }
 
 p {
-  @include fs(1.6rem, 2);
+  @include fs(1.4rem, 4);
   line-height: 2.7rem;
   max-width: 640px;
 }
