@@ -2,4 +2,8 @@
 title: "<em>The Pattern Exchange</em>"
 type: link
 date: 2017-11-01 00:00:00 +0000
+description: Essay written for Temple Bar Gallery, Dublin, March 2015
+link: http://www.templebargallery.com/content/files/The_Pattern_Exchange_Essay_R_ODwyer.pdf
+featured: false
+img: ''
 ---
