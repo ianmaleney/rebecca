@@ -1,5 +1,5 @@
 ---
-title: "<em>A Speculative Union</em>"
+title: "<em>A Seductive Union</em>"
 type: link
 date: 2014-09-01 09:09:14 +0100
 link: http://punctumbooks.com/titles/weaponising-speculation/
