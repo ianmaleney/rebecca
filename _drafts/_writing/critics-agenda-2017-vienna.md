@@ -6,5 +6,5 @@ link: https://rebeccaodwyer.wordpress.com/2017/11/27/critics-agenda-vienna/
 description: Some cursory thoughts on the inaugural Critics' Agenda, organised by
   BLOCKFREI (blog)
 featured: true
-img: "/uploads/2017/11/27/Optimized-IMG_0985.JPG"
+img: "/uploads/2017/11/27/IMG_0986.JPG"
 ---
