@@ -1,4 +1,6 @@
 ---
+pages:
+- response-to-a-request.md
 hide_body: false
 fields:
 - name: layout
