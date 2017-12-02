@@ -6,5 +6,5 @@ description: Gallery of Photography, Sept-Oct 2017. Review published in Source n
   92 (Winter 2017)
 link: http://www.source.ie/index.php
 featured: true
-img: "/uploads/2017/12/02/Chippie_Lacuna.jpg"
+img: "/uploads/2017/12/02/K_Nolan_LACUNA09-compressor.jpg"
 ---
