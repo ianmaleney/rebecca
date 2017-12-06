@@ -6,5 +6,5 @@ description: Gallery of Photography, Sept-Oct 2017. Review published in Source n
   92 (Winter 2017)
 link: http://www.source.ie/index.php
 featured: true
-img: "/uploads/2017/12/06/latest_issue_cover_700.jpg"
+img: "/uploads/2017/12/06/latest_issue_cover_700-1.jpg"
 ---
