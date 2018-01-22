@@ -3,7 +3,7 @@ title: "<em>Holding on to your Shadow</em>"
 type: link
 date: 2011-02-17 21:30:11 +0000
 description: Essay published in Sean O' Sullivan's 'The Wheel,' Spring 2011
-link: https://rebeccaodwyer.files.wordpress.com/2009/10/the-wheel-2011.pdf
+link: https://drive.google.com/file/d/1tEZlyEhGoWDtumNX_j9fVvOiiFUA1ig0/view?usp=sharing
 featured: false
 img: ''
 ---
