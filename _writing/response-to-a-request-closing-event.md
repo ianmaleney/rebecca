@@ -3,7 +3,7 @@ layout: post
 title: 'Response to a Request: Closing Event'
 date: 2018-02-02 13:24:13 +0000
 img: "/uploads/2018/01/08/Feehily_new_stillwell-1.jpeg"
-featured: true
+featured: false
 link: https://www.eventbrite.co.uk/e/response-to-a-request-closing-event-tickets-41871141712?aff=efbeventtix
 description: Douglas Hyde Gallery, Dublin, 2/2/18
 type: link
