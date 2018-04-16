@@ -61,6 +61,7 @@ pages:
 - _writing/maria-farrar-straits.md
 - _writing/review-brian-dillon-em-essayism-em.md
 hide_body: true
+is_partial: false
 fields:
 - type: text
   label: Title
