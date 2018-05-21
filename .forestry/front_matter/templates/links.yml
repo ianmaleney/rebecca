@@ -1,4 +1,44 @@
 ---
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+  description: Title of the piece being linked to.
+  config:
+    required: true
+- type: text
+  name: description
+  label: Description
+  description: Short description of the piece. (Optional)
+- type: text
+  name: link
+  label: Url
+  description: Link to the piece.
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  description: Date the piece was published. (DD/MM/YYYY)
+  config:
+    date_format: DD/MM/YYYY
+- type: boolean
+  name: featured
+  label: Featured
+  description: Should the piece be featured on the home page?
+- type: file
+  name: img
+  label: Image
+  description: Upload the image which will accompany the piece on the front page.
+- type: text
+  name: type
+  label: Type
+  description: Is this a link to an external site? If so, type 'link' in here.
+  config:
+    required: true
+  default: link
 pages:
 - _writing/em-knot-em.md
 - _writing/review-simon-fujiwara-em-joanne-em.md
@@ -64,43 +104,3 @@ pages:
 - _writing/alasdair-mcluckie-the-birth-of-form.md
 - _writing/awkward-angle-of-perception.md
 - _writing/review-brian-dillon-em-essayism-em.md
-hide_body: true
-is_partial: false
-fields:
-- type: text
-  label: Title
-  name: title
-  description: Title of the piece being linked to.
-  config:
-    required: true
-- type: text
-  name: description
-  label: Description
-  description: Short description of the piece. (Optional)
-- type: text
-  name: link
-  label: Url
-  description: Link to the piece.
-  config:
-    required: true
-- type: datetime
-  name: date
-  label: Date
-  description: Date the piece was published. (DD/MM/YYYY)
-  config:
-    date_format: DD/MM/YYYY
-- type: boolean
-  name: featured
-  label: Featured
-  description: Should the piece be featured on the home page?
-- type: file
-  name: img
-  label: Image
-  description: Upload the image which will accompany the piece on the front page.
-- type: text
-  name: type
-  label: Type
-  description: Is this a link to an external site? If so, type 'link' in here.
-  config:
-    required: true
-  default: link
