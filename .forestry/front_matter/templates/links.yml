@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/report-response-to-a-request.md
 - _writing/dragana-jurisic-em-my-own-unknown-em.md
 - _writing/em-knot-em.md
 - _writing/review-simon-fujiwara-em-joanne-em.md
@@ -61,7 +62,6 @@ pages:
 - _writing/aine-mcbride-between-building-and-unbuilding-em.md
 - _writing/sinead-ni-mhaonaigh-the-painter-s-painter-em.md
 - _writing/response-to-a-request-closing-event.md
-- _writing/report-response-to-a-request.md
 - _writing/kate-nolan-lacuna.md
 - _writing/alona-rodeh-em-the-runner-live-em.md
 - _writing/if-the-ground-should-open.md
