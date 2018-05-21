@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/dragana-jurisic-em-my-own-unknown-em.md
 - _writing/em-knot-em.md
 - _writing/review-simon-fujiwara-em-joanne-em.md
 - _writing/leslie-jamison-em-the-recovery-em.md
@@ -55,7 +56,6 @@ pages:
 - _writing/making-do-with-non-place.md
 - _writing/maria-fusco-em-give-up-art-em.md
 - _writing/negative-space-em.md
-- _writing/dragana-jurisic-em-my-own-unknown-em.md
 - _writing/making-us-speak.md
 - _writing/review-eva-international-2018.md
 - _writing/aine-mcbride-between-building-and-unbuilding-em.md
