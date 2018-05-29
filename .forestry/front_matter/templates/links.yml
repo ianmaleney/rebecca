@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/straight-edge.md
 - _writing/report-response-to-a-request.md
 - _writing/dragana-jurisic-em-my-own-unknown-em.md
 - _writing/em-knot-em.md
