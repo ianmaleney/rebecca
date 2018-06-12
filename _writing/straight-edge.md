@@ -1,5 +1,5 @@
 ---
-title: Straight Edge
+title: "<em>Straight Edge</em>"
 type: link
 date: 2018-05-29 00:00:00 +0000
 description: Short essay written for <em>Real Life</em> (US), May 2018
