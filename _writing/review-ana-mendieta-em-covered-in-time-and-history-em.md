@@ -6,5 +6,4 @@ description: Review published at <em>Apollo</em>, June 2018
 link: https://www.apollo-magazine.com/disappearing-acts-films-ana-mendieta/
 featured: false
 img: ''
-published: false
 ---
