@@ -6,5 +6,4 @@ description: Book review published at <em>The Stinging Fly</em>, May 2018
 link: https://stingingfly.org/review/the-recovering-intoxication-and-its-aftermath/
 featured: false
 img: ''
-published: false
 ---
