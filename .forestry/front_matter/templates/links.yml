@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/jane-cummins-half-sick-of-shadows.md
 - _writing/if-the-ground-should-open.md
 - _writing/review-eva-international-2018.md
 - _writing/aine-mcbride-between-building-and-unbuilding-em.md
