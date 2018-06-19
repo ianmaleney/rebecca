@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/how-to-tame-a-distance.md
 - _writing/if-the-ground-should-open.md
 - _writing/review-eva-international-2018.md
 - _writing/aine-mcbride-between-building-and-unbuilding-em.md
