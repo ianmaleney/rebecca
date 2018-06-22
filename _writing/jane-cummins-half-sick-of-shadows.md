@@ -6,5 +6,4 @@ description: Essay forthcoming in <em>Source Photographic Review</em>, Summer 20
 link: vvvvvv
 featured: false
 img: ''
-published: false
 ---
