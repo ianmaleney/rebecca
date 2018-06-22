@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/dragana-jurisic-em-my-own-unknown-em.md
 - _writing/jane-cummins-half-sick-of-shadows.md
 - _writing/if-the-ground-should-open.md
 - _writing/review-eva-international-2018.md
@@ -62,7 +63,6 @@ pages:
 - _writing/em-pretentiousness-why-it-matters-em.md
 - _writing/em-metabolising-the-city-em.md
 - _writing/maria-fusco-em-give-up-art-em.md
-- _writing/dragana-jurisic-em-my-own-unknown-em.md
 - _writing/report-response-to-a-request.md
 - _writing/making-do-with-non-place.md
 - _writing/response-to-a-request-closing-event.md
