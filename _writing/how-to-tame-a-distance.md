@@ -7,6 +7,5 @@ description: Essay published in 'Tied Up Dogs Rose Bay,' Darren Knight Gallery, 
 link: https://www.darrenknightgallery.com/artists/mckenna/
 featured: false
 img: ''
-published: false
 
 ---
