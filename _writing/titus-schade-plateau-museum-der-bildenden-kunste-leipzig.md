@@ -6,6 +6,5 @@ description: Review forthcoming in <em>Art Review</em>, September 2018
 link: https://artreview.com/
 featured: false
 img: ''
-published: false
 
 ---
