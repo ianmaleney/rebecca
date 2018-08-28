@@ -7,6 +7,5 @@ description: Published alongside 'work suite,' mother's tankstation, Dublin, Feb
 link: http://www.motherstankstation.com/wp-content/uploads/2018/07/A%CC%81ine-McBride_work-suite_Rebecca-ODwyer_Copyright-all-rights-reserved.pdf
 featured: false
 img: ''
-published: false
 
 ---
