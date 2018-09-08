@@ -6,6 +6,6 @@ description: Essay written alongside solo exhibition at mother's tankstation, Du
   May-July 2018
 link: http://www.motherstankstation.com/wp-content/uploads/2018/09/Hannah-Levy_Panic-Hardware_Rebecca-ODwyer_Copyright-all-rights-reserved.pdf
 featured: true
-img: "/uploads/2018/09/08/fa502de8b3e635a673c935692906c872.jpg"
+img: ''
 
 ---
