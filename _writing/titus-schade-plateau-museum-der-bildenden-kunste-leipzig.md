@@ -1,10 +1,10 @@
 ---
 title: Titus Schade, Plateau, Museum der bildenden Künste, Leipzig
 type: link
-date: 2018-08-28 00:00:00 +0000
+date: 2018-09-01 08:42:00 +0100
 description: Review published in <em>Art Review</em>, September 2018
 link: https://drive.google.com/file/d/1oYjQhMiZuVQz-tKZJljkjEBLtbA5a2jQ/view?usp=sharing
-featured: false
-img: ''
+featured: true
+img: "/uploads/2018/09/24/mdbk_titus_schade_die_aufstellung.300x0.1530198574.jpg"
 
 ---
