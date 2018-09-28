@@ -6,6 +6,5 @@ description: 'Published at <em>Apollo</em>, September '
 link: https://www.apollo-magazine.com/the-utopian-visions-of-geta-bratescu/
 featured: false
 img: ''
-published: false
 
 ---
