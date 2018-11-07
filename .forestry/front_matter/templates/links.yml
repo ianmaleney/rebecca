@@ -41,6 +41,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/jo-applin-lee-lozano-not-working-em.md
 - _writing/em-mairead-o-heocha-the-sky-was-yellow-and-the-sun-was-blue-em.md
 - _writing/the-trouble-with-being-bored.md
 - _writing/negative-space-em.md
