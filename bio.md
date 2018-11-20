@@ -3,7 +3,7 @@ layout: page
 permalink: "/bio/"
 
 ---
-Rebecca O’ Dwyer is an Irish art writer, critic and editor based in Berlin. She recently completed a PhD in the department of Visual Culture at the National College of Art & Design in Dublin, after writing a thesis on the conditions of contemporary art criticism.
+Rebecca O’ Dwyer is an Irish art writer, critic and editor based in Berlin. She holds a PhD from the department of Visual Culture at the National College of Art & Design in Dublin.
 
 Her writing has appeared in _Paper Visual Art Journal_, _Source Photographic Review, Art Review, Real Life,_ _Enclave Review_, _Fallow Media_, _Spike_, _frieze_, _032c_, _Eyeline_, _Apollo_, _The Stinging Fly,_ _The Tangerine_, and elsewhere; and she has written texts alongside exhibitions at the Project Arts Centre, The Irish Museum of Modern Art, The Douglas Hyde Gallery, the Lab, Temple Bar Gallery, and mother’s tankstation.
 
