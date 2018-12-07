@@ -7,6 +7,5 @@ description: 'Essay forthcoming in Doggerland, <em>On Sociality and Idiocy: A Re
 link: http://www.doggerland.info/
 featured: false
 img: ''
-published: false
 
 ---
