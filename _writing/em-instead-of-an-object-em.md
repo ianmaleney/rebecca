@@ -7,6 +7,5 @@ description: Catalogue text for Walker & Walker, <em>Nowhere without no(w)</em> 
 link: https://imma.ie/whats-on/walker-and-walker-nowhere-without-now-exhibition/
 featured: false
 img: ''
-published: false
 
 ---
