@@ -6,6 +6,5 @@ date: 2018-12-31 00:00:00 +0000
 featured: false
 img: ''
 type: link
-published: false
 
 ---
