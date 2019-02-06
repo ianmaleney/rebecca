@@ -6,6 +6,5 @@ link: http://papervisualart.com/
 date: 2019-04-04 23:00:00 +0100
 featured: false
 img: ''
-published: false
 
 ---
