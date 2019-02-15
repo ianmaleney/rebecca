@@ -6,6 +6,5 @@ link: https://mapmagazine.co.uk/what-moves-you
 date: 2019-02-14 23:00:00 +0000
 featured: false
 img: ''
-published: false
 
 ---
