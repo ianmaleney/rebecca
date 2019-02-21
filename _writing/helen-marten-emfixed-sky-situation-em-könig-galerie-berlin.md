@@ -6,6 +6,5 @@ link: http://www.burlingtoncontemporary.org.uk/reviews/reviews/helen-marten
 date: 2019-02-19 23:00:00 +0000
 featured: false
 img: ''
-published: false
 
 ---
