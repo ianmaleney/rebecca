@@ -6,6 +6,5 @@ link: https://imma.ie/magazine/thinking-of-the-network-rebecca-o-dwyer/
 date: 2019-02-28 23:00:00 +0000
 featured: false
 img: ''
-published: false
 
 ---
