@@ -6,6 +6,5 @@ link: https://drive.google.com/open?id=0B0kJZwI9QCikTF9lMmIyRHpBR0swLUpjNjVWaHRw
 date: 2019-06-09 23:00:00 +0100
 featured: false
 img: ''
-published: false
 
 ---
