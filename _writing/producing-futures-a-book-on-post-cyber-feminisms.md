@@ -6,6 +6,5 @@ link: https://032c.com/store/magazine/products/issue-36-summer-19-working-out-lo
 date: 2019-06-03 23:00:00 +0100
 featured: false
 img: ''
-published: false
 
 ---
