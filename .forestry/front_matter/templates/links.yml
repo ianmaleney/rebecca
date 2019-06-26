@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/em-rising-as-such-em.md
 - _writing/producing-futures-a-book-on-post-cyber-feminisms.md
 - _writing/incoming-louise-bonnet.md
 - _writing/review-ana-mendieta-em-covered-in-time-and-history-em.md
