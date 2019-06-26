@@ -8,6 +8,5 @@ link: xxx
 date: 2019-07-30 23:00:00 +0100
 featured: false
 img: ''
-published: false
 
 ---
