@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/em-rising-as-such-em.md
 - _writing/incoming-gaby-sahhar.md
 - _writing/producing-futures-a-book-on-post-cyber-feminisms.md
 - _writing/helen-marten-emfixed-sky-situation-em-könig-galerie-berlin.md
@@ -86,7 +87,6 @@ pages:
 - _writing/maria-farrar-straits.md
 - _writing/review-brian-dillon-em-essayism-em.md
 - _writing/straying-from-the-line-schinkel-pavillon-berlin.md
-- _writing/em-rising-as-such-em.md
 - _writing/incoming-louise-bonnet.md
 - _writing/hannah-black-emaeter-em.md
 - _writing/em-instead-of-an-object-em.md
