@@ -6,6 +6,5 @@ link: https://www.sleek-mag.com/
 date: 2019-09-05 23:00:00 +0100
 featured: false
 img: ''
-published: false
 
 ---
