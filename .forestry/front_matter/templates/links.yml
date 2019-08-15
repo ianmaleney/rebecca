@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/barbara-kleinhamplová-emsickness-report-em.md
 - _writing/elvia-wilk-em-oval-em.md
 - _writing/em-rising-as-such-em.md
 - _writing/incoming-gaby-sahhar.md
@@ -108,7 +109,6 @@ pages:
 - _writing/review-eva-international-2018.md
 - _writing/em-not-this-not-that-em.md
 - _writing/aine-mcbride-between-building-and-unbuilding.md
-- _writing/barbara-kleinhamplová-emsickness-report-em.md
 - _writing/how-to-tame-a-distance.md
 - _writing/hannah-levy-em-panic-hardware-em.md
 - _writing/em-mairead-o-heocha-the-sky-was-yellow-and-the-sun-was-blue-em.md
