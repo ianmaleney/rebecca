@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/frances-stark-em-lonely-and-abandoned-on-the-market-place-em.md
 - _writing/barbara-kleinhamplová-emsickness-report-em.md
 - _writing/elvia-wilk-em-oval-em.md
 - _writing/em-rising-as-such-em.md
