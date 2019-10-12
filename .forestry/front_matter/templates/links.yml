@@ -40,6 +40,7 @@ fields:
     required: true
   default: link
 pages:
+- _writing/straying-from-the-line-schinkel-pavillon-berlin.md
 - _writing/frances-stark-em-lonely-and-abandoned-on-the-market-place-em.md
 - _writing/barbara-kleinhamplová-emsickness-report-em.md
 - _writing/elvia-wilk-em-oval-em.md
@@ -89,7 +90,6 @@ pages:
 - _writing/awkward-angle-of-perception.md
 - _writing/maria-farrar-straits.md
 - _writing/review-brian-dillon-em-essayism-em.md
-- _writing/straying-from-the-line-schinkel-pavillon-berlin.md
 - _writing/incoming-louise-bonnet.md
 - _writing/hannah-black-emaeter-em.md
 - _writing/em-instead-of-an-object-em.md
