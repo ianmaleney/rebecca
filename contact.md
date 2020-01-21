@@ -1,6 +1,6 @@
 ---
 layout: page
 permalink: "/contact/"
----
 
-email: rebeccasueodwyer@gmail.com
+---
+email: rebeccasueodwyer@icloud.com
