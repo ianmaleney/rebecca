@@ -3,6 +3,4 @@ layout: page
 permalink: "/contact/"
 
 ---
-email: rebeccasueodwyer@icloud.com
-
-Important: Do not contact me about an email chain. It's spam, of course.
+I'm always interested to talk about writing and editing projects and other kinds of collaboration. Drop me a line at rebeccasueodwyer(at)icloud.com
