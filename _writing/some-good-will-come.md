@@ -1,8 +1,8 @@
 ---
 type: link
-title: Some Good Will Come
-description: "'The Trouble with Being Bored' is reprinted in anthology of Fallow Media's
-  first 5 years"
+title: The Trouble With Being Bored
+description: Essay reprinted in Some Good Will Come, the anthology of Fallow Media's
+  first five years
 link: https://fallowmedia.com/shop/some-good-will-come/
 date: 2021-01-31 23:00:00 +0000
 featured: true
