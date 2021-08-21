@@ -6,6 +6,6 @@ description: Short essay published in <em>Paper Visual Art Journal<em/> 12, Augu
 link: https://papervisualart.com/product/issue-12/
 date: 2021-07-31 23:00:00 +0100
 featured: true
-img: "/uploads/2021/08/21/pva_journal12_covercomp-copy.jpg"
+img: "/uploads/2021/08/21/small.png"
 
 ---
