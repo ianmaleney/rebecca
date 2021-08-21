@@ -5,7 +5,7 @@ description: Short essay published in <em>Paper Visual Art Journal<em/> 12, Augu
   2021
 link: https://papervisualart.com/product/issue-12/
 date: 2021-07-31 23:00:00 +0100
-featured: false
+featured: true
 img: ''
 
 ---
