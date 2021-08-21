@@ -6,6 +6,5 @@ link: https://papervisualart.com/product/issue-12/
 date: 2021-07-31 23:00:00 +0100
 featured: false
 img: ''
-published: false
 
 ---
