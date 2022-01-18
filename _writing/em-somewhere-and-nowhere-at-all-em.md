@@ -6,6 +6,5 @@ link: https://www.eva.ie/project/occasional-groundwork/
 date: 2022-01-20 23:00:00 +0000
 featured: false
 img: ''
-published: false
 
 ---
