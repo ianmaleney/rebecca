@@ -7,6 +7,5 @@ link: https://www.nothingpersonalmagazine.com
 date: 2022-01-30 23:00:00 +0000
 featured: false
 img: ''
-published: false
 
 ---
