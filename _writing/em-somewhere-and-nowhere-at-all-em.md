@@ -1,9 +1,9 @@
 ---
 type: link
 title: "<em>Somewhere and Nowhere at All</em>"
-description: Essay published in <em>Groundings</em> (Jan 2022), a partnership of EVA
-  International, Lofoten International Art Festival, and Göteborg International Biennial
-  for Contemporary Art, as part of the Occasional Groundwork initiative.
+description: Essay commissioned for <em>Groundings</em> (Jan 2022), a joint project
+  of EVA International, Lofoten International Art Festival, and Göteborg International
+  Biennial for Contemporary Art.
 link: https://www.eva.ie/occasional-groundwork-groundings/
 date: 2022-01-23 23:00:00 +0000
 featured: true
