@@ -5,6 +5,6 @@ description: Review published in <em>Art Review</em>, Jan/Feb 2022
 link: https://artreview.com
 date: 2022-02-02 23:00:00 +0000
 featured: true
-img: "/uploads/2022/02/03/telfar-telfartv-2021-courtesy-of-the-artists-and-centre-dart-contemporain-geneve-photo-cynthia-mai-ammann-3-720x480.jpeg"
+img: "/uploads/2022/02/03/screenshot-2022-02-03-at-13-48-37.png"
 
 ---
