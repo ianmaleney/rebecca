@@ -1,6 +1,6 @@
 ---
 type: link
-title: Conflicting Spaces
+title: "<em>Conflicting Spaces<em/>"
 description: Commissioned essay for the launch of the Irish Photo Network website,
   November 2022
 link: https://www.irishphotonetwork.com/conflicting-spaces
