@@ -7,6 +7,5 @@ link: https://www.instagram.com/things_being_friends/
 date: 2022-11-18 23:00:00 +0000
 featured: false
 img: ''
-published: false
 
 ---
