@@ -6,6 +6,5 @@ link: https://papervisualart.com/product/issue-14/
 date: 2022-09-02 23:00:00 +0100
 featured: false
 img: ''
-published: false
 
 ---
