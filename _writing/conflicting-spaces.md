@@ -6,6 +6,6 @@ description: Commissioned essay for the launch of the Irish Photo Network websit
 link: https://www.irishphotonetwork.com/conflicting-spaces
 date: 2022-11-27 23:00:00 +0000
 featured: true
-img: "/uploads/2022/11/29/irish-photo-network-logo-simple-26.png"
+img: "/uploads/2022/11/29/screenshot-2022-11-29-at-22-02-38.png"
 
 ---
